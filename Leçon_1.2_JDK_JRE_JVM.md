@@ -32,6 +32,6 @@ La JRE est un ensemble de bibliothèques et de fichiers nécessaires à l'exécu
 
 La JRE est un ensemble de bibliothèques et de fichiers nécessaires à l'exécution d'applications Java. Elle comprend également une instance de la JVM. Lorsque vous exécutez un programme Java en tant qu'utilisateur final, la JRE est utilisée pour fournir l'environnement d'exécution nécessaire. Vous n'avez pas besoin du JDK pour exécuter des applications Java, car la JRE est suffisante.
 
-![JRE](Images/jre2.jpg)
+![JRE](Images/jre2.png)
 
-![JDK](Images/jdk2.jpg)
+![JDK](Images/jdk2.png)
