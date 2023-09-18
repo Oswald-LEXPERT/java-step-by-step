@@ -1,4 +1,4 @@
-# Guide dy style Java
+# Guide du style Java
 
 Bien que certains langages de programmation partagent des caractéristiques de style, il est toujours important de suivre les conventions de formatage de chaque langue. Nous vous donnerons un aperçu des sujets les plus courants.
 
