@@ -55,4 +55,6 @@ Java est un langage populaire avec de nombreuses opportunités professionnelles.
 Dans les prochaines leçons, nous plongerons plus en profondeur dans les bases de la programmation en Java. Mais avant cela, prenons le temps de configurer votre environnement de développement Java.
 
 ## Images
+
+#### James Gosling
 ![James Gosling créateur de Java](Images/James_Gosling.jpg)
